@@ -1,4 +1,13 @@
-.overview h1 {
+body {
+  font-family: arial, sans-serif;
+}
+
+h1 {
+  font-family: "Cherry Swash", cursive;
+  color: #a97c73;
+}
+
+.overview h2 {
   font-family: "Cherry Swash", cursive;
   color: #a97c73;
   font-size: 30px;
@@ -29,8 +38,7 @@ ul {
 }
 
 .button {
-  background-color: #b0c592;
-  box-shadow: ;
+  background: #b0c592;
   border-radius: 5px;
   border-color: #b0c592;
   width: 100px;
@@ -40,14 +48,15 @@ ul {
 .weather-app {
   font-family: "Cherry Swash", cursive;
   color: #c6ad94;
-  padding: 40px;
-  border: 2px solid #dadde1;
-  border-radius: 5px;
+  padding: 150px;
+  border: 2px solid #a97c73;
+  border-radius: 20px;
+  background: linear-gradient(#e6f5e7, #f3e6e6);
 }
 
 .weather-app-wrapper {
-  max-width: 600px;
-  margin: 30px auto;
+  max-width: 800px;
+  margin: 10px auto;
 }
 
 .overview {
@@ -79,4 +88,15 @@ ul {
   position: relative;
   font-size: 16px;
   top: -34px;
+}
+
+.source-code {
+  text-align: center;
+  font-family: "Cherry Swash", cursive;
+  color: #a97c73;
+  font-size: 10px;
+}
+
+.link-type {
+  color: #c6ad94;
 }

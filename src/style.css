@@ -1,20 +1,18 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 .overview h1 {
-  color: #878787;
-  font-size: 28px;
-  font-weight: 500;
+  font-family: "Cherry Swash", cursive;
+  color: #a97c73;
+  font-size: 30px;
+  font-weight: 900;
   line-height: 28px;
   margin-bottom: 0;
 }
 
 li {
+  font-family: "Cherry Swash", cursive;
   list-style: none;
   margin: 0;
   padding: 0;
-  color: rgb(135, 135, 135);
+  color: #c6ad94;
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -25,13 +23,25 @@ li:first-letter {
 }
 
 ul {
+  font-family: "Cherry Swash", cursive;
   margin: 0;
   padding: 0;
 }
 
+.button {
+  background-color: #b0c592;
+  box-shadow: ;
+  border-radius: 5px;
+  border-color: #b0c592;
+  width: 100px;
+  height: 40px;
+}
+
 .weather-app {
-  padding: 20px;
-  border: 1px solid #dadde1;
+  font-family: "Cherry Swash", cursive;
+  color: #c6ad94;
+  padding: 40px;
+  border: 2px solid #dadde1;
   border-radius: 5px;
 }
 

@@ -90,6 +90,24 @@ ul {
   top: -34px;
 }
 
+.weather-forcast {
+  margin-top: 20px;
+  text-align: center;
+  color: #a97c73;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+}
+
+.weather-forecast-temperature {
+  font-size: 13px;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.6;
+}
+
 .source-code {
   text-align: center;
   font-family: "Cherry Swash", cursive;
@@ -99,9 +117,4 @@ ul {
 
 .link-type {
   color: #c6ad94;
-}
-
-.weather-forcase {
-  margin-top: 20px;
-  text-align: center;
 }

@@ -100,3 +100,8 @@ ul {
 .link-type {
   color: #c6ad94;
 }
+
+.weather-forcase {
+  margin-top: 20px;
+  text-align: center;
+}

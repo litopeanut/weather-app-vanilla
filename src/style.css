@@ -48,7 +48,7 @@ ul {
 .weather-app {
   font-family: "Cherry Swash", cursive;
   color: #c6ad94;
-  padding: 150px;
+  padding: 50px;
   border: 2px solid #a97c73;
   border-radius: 20px;
   background: linear-gradient(#e6f5e7, #f3e6e6);
@@ -56,7 +56,7 @@ ul {
 
 .weather-app-wrapper {
   max-width: 800px;
-  margin: 10px auto;
+  margin: 5px auto;
 }
 
 .overview {
